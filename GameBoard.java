@@ -1,7 +1,7 @@
 /**
  * Write a description of class GameBoard here.
  * 
- * @author (your name) 
+ * @author (Josh Ross) 
  * @version (a version number or a date)
  */
 public class GameBoard
